@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">👋 Hi, I'm Proneet</h1>
 
-<!--
-**proneetsharma/proneetsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Researcher @ <b>DFKI Bremen</b> • Computer Vision • Underwater Robotics • Dataset Creator
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:sproneet@gmail.com"><img src="https://img.shields.io/badge/email-contact%20me-blue?style=flat&logo=gmail"></a>
+  <a href="www.linkedin.com/in/proneet-sharma"><img src="https://img.shields.io/badge/linkedin-profile-blue?style=flat&logo=linkedin"></a>
+  <a href="https://proneetsharma.github.io/"><img src="https://img.shields.io/badge/website-portfolio-informational?style=flat&logo=google-chrome"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+I'm a researcher focused on bringing **machine perception to the deep sea** — building robust **object detection**, **6D pose estimation**, **underwater object tracking**, **3D reconstruction**, and building **datasets** for real-world marine robotics.
+
+---
+
+### 🌊 Interests
+```text
+Perception in marine environments · Few-shot learning · Bayesian filters
